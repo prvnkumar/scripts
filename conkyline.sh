@@ -1,0 +1,1 @@
+~/scripts/cric.sh
